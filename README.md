@@ -4,6 +4,9 @@
 ![THLPH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=THLPH&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THLPH&layout=compact&theme=radical)
+
+
+https://www.codewars.com/users/THLPH/badges/large
 <!--
 **THLPH/THLPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
