@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ## 📊 **GitHub Stats**
-![THLPH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=THLPH&show_icons=true&theme=radical)
+![THLPH's GitHub Stats](https://github-readme-stats.shion.dev/api?username=THLPH&show_icons=true&theme=merko)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THLPH&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=THLPH&layout=compact&theme=react)
 
 
 ![CodeWar](https://www.codewars.com/users/THLPH/badges/large)
