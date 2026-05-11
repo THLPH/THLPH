@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 
 ### 🏇 Umamusume: Pretty Derby ![Region](https://img.shields.io/badge/Server-Global-D10068?style=flat-square)
 **Trainer ID:** `316 621 940 558`  
-**Joined:** `2026-01-21`  
+**Joined:** `2025-06-26`  
