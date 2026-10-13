@@ -3,7 +3,7 @@
 ## 📊 **GitHub Stats**
 ![THLPH's GitHub Stats](https://github-readme-stats.shion.dev/api?username=THLPH&show_icons=true&theme=merko)  
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=THLPH&layout=compact&theme=react&hide=jupyter%20notebook)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=THLPH&layout=compact&theme=react&hide=jupyter%20notebook,html,css)
 
 
 ![CodeWar](https://www.codewars.com/users/THLPH/badges/large)
