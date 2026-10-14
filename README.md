@@ -1,54 +1,70 @@
-## Hi there 👋
+<div align="center">
 
-## 📊 **GitHub Stats**
-![THLPH's GitHub Stats](https://github-readme-stats.shion.dev/api?username=THLPH&show_icons=true&theme=merko)  
+# Hi there, I'm THLPH 👋
+### 💻 Developer & Tech Enthusiast
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=THLPH&layout=compact&theme=react&hide=jupyter%20notebook,html,css,javascript)
+<br/>
 
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=THLPH&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/THLPH)
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=THLPH&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css,javascript)](https://github.com/THLPH)
 
-![CodeWar](https://www.codewars.com/users/THLPH/badges/large)
-<!--
-**THLPH/THLPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+[![Codewars](https://www.codewars.com/users/THLPH/badges/large)](https://www.codewars.com/users/THLPH)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 🖥️ PC Specifications
-   
-| Component | Specification | Badge |
-| :--- | :--- | :--- |
-| **Processor** | Ryzen 9 7950X3D | ![CPU](https://img.shields.io/badge/AMD-7950X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white) |
-| **Graphics** | Nitro+ RX 7900 XTX | ![GPU](https://img.shields.io/badge/Radeon-7900XTX-FF0000?style=for-the-badge&logo=amd&logoColor=white) |
-| **Memory** | 64GB DDR5-6400 | ![RAM](https://img.shields.io/badge/DDR5-64GB-000000?style=for-the-badge) |
-| **Board** | NZXT N7 B650E | ![MOBO](https://img.shields.io/badge/NZXT-B650E-000000?style=for-the-badge&logo=nzxt&logoColor=white) |
-| **Storage** | 2x4TB NVMe (SN850X) | ![SSD](https://img.shields.io/badge/WD_BLACK-2x4TB-B01116?style=for-the-badge) |
-| **Chassis** | HYTE Y70 | ![CASE](https://img.shields.io/badge/HYTE-Y70-white?style=for-the-badge) |
+</div>
 
 ---
 
+<details>
+<summary>⚙️ <b>Hardware & Garage</b></summary>
 
-## 🎮 Game Directory
+<br>
 
-> [!IMPORTANT]
-> **SKport Verified Account:** [View Profile Here](https://www.skport.com/profile?id=2093984683522)
+#### 🖥️ PC Specs
+| Component | Hardware Specification |
+| :--- | :--- |
+| **CPU** | AMD Ryzen 9 7950X3D |
+| **GPU** | Sapphire Nitro+ Radeon RX 7900 XTX |
+| **RAM** | 64GB DDR5-6400 |
+| **Motherboard** | NZXT N7 B650E |
+| **Storage** | 8TB (2× 4TB WD_BLACK SN850X NVMe) |
+| **Chassis** | HYTE Y70 |
 
-### 🔼 Arknights ![Server](https://img.shields.io/badge/Server-Global-blue?style=flat-square)
-**ID:** `THLPH #1222`  
-**Joined:** `2020-01-23`  
+#### 🏎️ Garage Cars
+| Vehicle | Chassis | Trim / Configuration |
+| :--- | :---: | :--- |
+| **2020 Mazda MX-5 Miata RF** | `ND2` | Grand Touring |
+| **2025 Nissan Z** | `RZ34` | Performance |
 
-### 🛰️ Arknights: Endfield ![Server](https://img.shields.io/badge/Server-Americas/Europe-yellow?style=flat-square)
-**ID:** `THLPH #7294`  
-**Joined:** `2026-01-21`  
+</details>
 
-### 🏇 Umamusume: Pretty Derby ![Region](https://img.shields.io/badge/Server-Global-D10068?style=flat-square)
-**Trainer ID:** `316 621 940 558`  
-**Joined:** `2025-06-26`  
+---
+
+<details>
+<summary>🎮 <b>Game Directory & Profiles</b></summary>
+
+<br>
+
+> [!NOTE]
+> **SKport Verified:** [View Profile](https://www.skport.com/profile?id=2093984683522)
+
+- **🔼 Arknights** `Global`  
+  - **ID:** `THLPH #1222`  
+  - **Joined:** `2020-01-23`
+
+- **🛰️ Arknights: Endfield** `Americas / Europe`  
+  - **ID:** `THLPH #7294`  
+  - **Joined:** `2026-01-21`
+
+- **🏇 Umamusume: Pretty Derby** `Global`  
+  - **Trainer ID:** `316 621 940 558`  
+  - **Joined:** `2025-06-26`
+
+</details>
+
+---
+
+<div align="center">
+<sub>Built & maintained by <a href="https://github.com/THLPH">THLPH</a></sub>
+</div>
